@@ -2,9 +2,7 @@
 
 # SivaSai Mundlapati
 
-📧 sivaaliassai1435@gmail.com | 📞 9640702408 | 📍 Rayachoty-516269
-
-[LinkedIn](https://www.linkedin.com/in/sivasai-mundlapati-727b77158) | [Portfolio](https://mundlapatisivasai.netlify.app/)
+📧 sivaaliassai1435@gmail.com | 📞 9640702408 | 📍 Rayachoty-516269 | [My Portfolio](https://mundlapatisivasai.netlify.app/)
 
 ## 👨‍💻 Professional Summary
 I am a Computer Science graduate specializing in full-stack web development. My skillset includes Vue.js, React.js, Node.js, RESTful APIs, Python, and Java. With a strong foundation in product development and code optimization, I am committed to delivering high-quality, scalable solutions.
