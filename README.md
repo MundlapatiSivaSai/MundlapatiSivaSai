@@ -34,7 +34,6 @@ _June 2019 - May 2023_
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=MundlapatiSivaSai&icon=0&color=0)](https://visitcount.itsvg.in)
-
+[![](https://visitcount.itsvg.in/api?id=MundlapatiSivaSai&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
 ---
 > _"Passionate about building web solutions that make a difference. Eager to collaborate on innovative projects and continuous learning."_
